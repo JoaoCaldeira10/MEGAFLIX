@@ -1,0 +1,286 @@
+body {
+
+    color:rgb(255, 255, 255);
+    background: rgb(29, 27, 27);
+    margin: 0px
+    margin-bottom = 100px;
+      
+    }
+
+header{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-bottom: solid 2px rgb(255, 53, 53);
+    padding:  10px;
+    font-size: 20px;
+    color:rgb(255, 53, 53); 
+      
+
+} 
+
+.nowayhome{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: rgb(21, 21, 52);
+    padding-bottom: 80px ;
+    padding-top: 80px;
+    display: flex
+    justify-content = center; 
+    margin: 2%;
+}
+
+.nowayhome h1{
+    color:rgb(255, 53, 53);
+}
+
+.nowayhome p{
+ color: rgb(255, 53, 53);;
+}
+
+.nowayhome h2{
+    font-family:sans-serif;
+    color: rgb(255, 53, 53);;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 80px
+}
+
+img{
+    height: 600;
+    opacity: 1.0;
+}
+img:hover{
+ opacity: 0.5;
+}
+
+.spiderverse{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: rgb(250, 10, 70);
+    padding-bottom: 80px ;
+    padding-top: 80px;
+    display: flex
+    justify-content = center; 
+    margin: 2%;
+}
+
+.spiderverse h1{
+    color:rgb(21, 21, 52);
+}
+
+.spiderverse p{
+    color:rgb(21, 21, 52);;
+}
+
+.spiderverse h2{
+    color:rgb(21, 21, 52);
+    font-family:sans-serif;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 80px
+}
+
+.ultimato{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: rgb(40, 32, 58);
+    padding-bottom: 80px ;
+    padding-top: 80px;
+    display: flex
+    justify-content = center; 
+    margin: 2%;
+}
+.ultimato h1{
+    color:rgb(255, 53, 53);;
+}
+
+.ultimato p{
+    color:rgb(255, 53, 53);;
+}
+
+.ultimato h2{
+    font-family:sans-serif;
+    color: rgb(255, 53, 53);;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 80px
+
+}
+
+.insideout{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: rgb(223, 217, 218);
+    padding-bottom: 80px ;
+    padding-top: 80px;
+    display: flex
+    justify-content = center; 
+    margin: 2%;
+}
+
+.insideout h1{
+    color: rgb(21, 21, 52);
+}
+
+.insideout p {
+    color:rgb(21, 21, 52);
+}
+
+.insideout h2{
+    font-family:sans-serif;
+    color:rgb(21, 21, 52);
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 80px
+
+
+}
+
+.theincredibles{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: rgb(255, 26, 26);
+    padding-bottom: 80px ;
+    padding-top: 80px;
+    display: flex
+    justify-content = center; 
+    margin: 2%;
+}
+
+.theincredibles h1{
+    color:rgb(21, 21, 52);;
+}
+
+.theincredibles p{
+    color:rgb(21, 21, 52);;
+}
+
+.theincredibles h2{
+    font-family:sans-serif;
+    color: rgb(21, 21, 52);;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 80px
+
+
+}
+
+.moana{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: rgb(93, 198, 255);
+    padding-bottom: 80px ;
+    padding-top: 80px;
+    display: flex
+    justify-content = center; 
+    margin: 2%;
+    
+}
+
+.moana h1{
+    color:rgb(21, 21, 52);
+}
+
+.moana p{
+color:rgb(21, 21, 52)
+}
+
+.moana h2{
+    font-family:sans-serif;
+    color:rgb(21, 21, 52);
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 80px
+
+}
+
+
+.devoltaaolar{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: rgb(21, 21, 52);
+    padding-bottom: 80px ;
+    padding-top: 80px;
+    display: flex
+    justify-content = center; 
+    margin: 2%;
+    
+}
+
+.devoltaaolar h1{
+    color:rgb(255, 53, 53);
+}
+
+.devoltaaolar p{
+    color: rgb(255, 53, 53);
+}
+
+.devoltaaolar h2{
+    font-family:sans-serif;
+    color: rgb(255, 53, 53);
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 80px
+
+}
+
+.guardians{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background:rgb(223, 217, 218);
+    padding-bottom: 80px ;
+    padding-top: 80px;
+    display: flex
+    justify-content = center; 
+    margin: 2%;
+    
+}
+
+.guardians h1{
+    color:rgb(21, 21, 52);
+}
+
+.guardians p {
+color:rgb(21, 21, 52);;
+}
+
+
+.guardians h2{
+    font-family:sans-serif;
+    color:rgb(21, 21, 52);
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 80px
+}
+
+.batman{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background:rgb(248, 10, 10);
+    padding-bottom: 80px ;
+    padding-top: 80px;
+    display: flex
+    justify-content = center; 
+    margin: 2%;
+}
+
+.batman h1{
+    color:rgb(21, 21, 52);
+}
+
+.batman p{
+    color:rgb(21, 21, 52)
+}
+
+.batman h2{
+    font-family:sans-serif;
+    color:rgb(21, 21, 52);
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 80px
+}
+
+.avaliacao{
+    height: 100px
+    ;
+}
+.avaliacao2{
+    height: 100px;
+}
+.avaliacao3{
+    height:100px;
+}
+
+
+
+
